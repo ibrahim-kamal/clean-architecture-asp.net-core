@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/HueNyp7U/B6wUCxQUo8Jdq3E0RqlsGWSuRpRYFG8SpNOAdCn450QHxOwaGbsxqRPN6gAJNn5FUXSoT/l2e5w==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\C#10\\SchoolProject\\SchoolProjet.Data\\SchoolProjet.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrahim\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

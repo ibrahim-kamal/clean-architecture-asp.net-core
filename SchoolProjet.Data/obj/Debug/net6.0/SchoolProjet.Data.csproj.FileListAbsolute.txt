@@ -1,0 +1,12 @@
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\bin\Debug\net6.0\SchoolProjet.Data.deps.json
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\bin\Debug\net6.0\SchoolProjet.Data.dll
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\bin\Debug\net6.0\SchoolProjet.Data.pdb
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\obj\Debug\net6.0\SchoolProjet.Data.csproj.AssemblyReference.cache
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\obj\Debug\net6.0\SchoolProjet.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\obj\Debug\net6.0\SchoolProjet.Data.AssemblyInfoInputs.cache
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\obj\Debug\net6.0\SchoolProjet.Data.AssemblyInfo.cs
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\obj\Debug\net6.0\SchoolProjet.Data.csproj.CoreCompileInputs.cache
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\obj\Debug\net6.0\SchoolProjet.Data.dll
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\obj\Debug\net6.0\refint\SchoolProjet.Data.dll
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\obj\Debug\net6.0\SchoolProjet.Data.pdb
+D:\C#\C#10\SchoolProject\SchoolProjet.Data\obj\Debug\net6.0\ref\SchoolProjet.Data.dll
