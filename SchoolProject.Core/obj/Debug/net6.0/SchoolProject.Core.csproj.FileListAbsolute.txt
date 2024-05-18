@@ -1,8 +1,3 @@
-D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.AssemblyReference.cache
-D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.GeneratedMSBuildEditorConfig.editorconfig
-D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.AssemblyInfoInputs.cache
-D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.AssemblyInfo.cs
-D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.CoreCompileInputs.cache
 D:\C#\C#10\SchoolProject\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.deps.json
 D:\C#\C#10\SchoolProject\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.dll
 D:\C#\C#10\SchoolProject\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Core.pdb
@@ -12,6 +7,11 @@ D:\C#\C#10\SchoolProject\SchoolProject.Core\bin\Debug\net6.0\SchoolProjet.Data.d
 D:\C#\C#10\SchoolProject\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Infrastructure.pdb
 D:\C#\C#10\SchoolProject\SchoolProject.Core\bin\Debug\net6.0\SchoolProject.Service.pdb
 D:\C#\C#10\SchoolProject\SchoolProject.Core\bin\Debug\net6.0\SchoolProjet.Data.pdb
+D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.AssemblyReference.cache
+D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.AssemblyInfoInputs.cache
+D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.AssemblyInfo.cs
+D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.CoreCompileInputs.cache
 D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.csproj.CopyComplete
 D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\SchoolProject.Core.dll
 D:\C#\C#10\SchoolProject\SchoolProject.Core\obj\Debug\net6.0\refint\SchoolProject.Core.dll

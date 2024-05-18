@@ -1,9 +1,3 @@
-D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.AssemblyReference.cache
-D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.GeneratedMSBuildEditorConfig.editorconfig
-D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.AssemblyInfoInputs.cache
-D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.AssemblyInfo.cs
-D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.CoreCompileInputs.cache
-D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\appsettings.Development.json
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\appsettings.json
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\SchoolProject.Api.exe
@@ -15,6 +9,8 @@ D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\AutoMapper.dll
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\Azure.Core.dll
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\FluentValidation.dll
+D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\Humanizer.dll
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\MediatR.dll
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\MediatR.Contracts.dll
@@ -82,6 +78,13 @@ D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\SchoolProject.Core.p
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\SchoolProject.Infrastructure.pdb
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\SchoolProject.Service.pdb
 D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\SchoolProjet.Data.pdb
+D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.AssemblyReference.cache
+D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.AssemblyInfoInputs.cache
+D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.AssemblyInfo.cs
+D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.csproj.CoreCompileInputs.cache
+D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\staticwebassets\msbuild.SchoolProject.Api.Microsoft.AspNetCore.StaticWebAssets.props
 D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.SchoolProject.Api.props
 D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SchoolProject.Api.props
@@ -96,6 +99,3 @@ D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\refint\SchoolProject
 D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.pdb
 D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.genruntimeconfig.cache
 D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\ref\SchoolProject.Api.dll
-D:\C#\C#10\SchoolProject\SchoolProject.Api\obj\Debug\net6.0\SchoolProject.Api.MvcApplicationPartsAssemblyInfo.cs
-D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\FluentValidation.dll
-D:\C#\C#10\SchoolProject\SchoolProject.Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

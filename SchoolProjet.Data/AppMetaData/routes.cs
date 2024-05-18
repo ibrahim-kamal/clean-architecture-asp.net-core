@@ -19,6 +19,7 @@ namespace SchoolProjet.Data.AppMetaData
             public const string LIST = PERFIX+"list";
             public const string profile = PERFIX+"profile/{id}";
             public const string CREATE = PERFIX+"create";
+            public const string EDIT = PERFIX+"edit";
         }
 
 

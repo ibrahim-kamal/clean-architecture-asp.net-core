@@ -15,6 +15,10 @@ namespace SchoolProject.Api.Base
         protected readonly IMediator _mediator;
         #endregion
         #region constructors
+
+        public AppControllerBase() { 
+            
+        }
         public AppControllerBase(IMediator mediator)
         {
             _mediator = mediator;

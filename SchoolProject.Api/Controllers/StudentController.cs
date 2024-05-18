@@ -35,13 +35,20 @@ namespace SchoolProject.Api.Controllers
             var response = await _mediator.Send(new GetStudentByIdQuery(id));
             return NewResult(response);
         }
-        [HttpGet(routes.studentRoute.CREATE)]
+        [HttpPost(routes.studentRoute.CREATE)]
         public async Task<IActionResult> Create([FromBody] addStudentCommand addStudentCommand)
         {
             var response = await _mediator.Send(addStudentCommand);
             return NewResult(response);
         }
 
+
+        [HttpPut(routes.studentRoute.EDIT)]
+        public async Task<IActionResult> edit([FromBody] EditStudentCommand editStudentCommand)
+        {
+            var response = await _mediator.Send(editStudentCommand);
+            return NewResult(response);
+        }
 
 
 

@@ -14,6 +14,7 @@ namespace SchoolProject.Core.Features.Students.Commands.Handlers
 {
     class StudentCommandHandler : ResponseHandler,
                                     IRequestHandler<addStudentCommand, Response<string>>
+                                   ,IRequestHandler<EditStudentCommand, Response<string>>
     {
         #region constructors
         private readonly IStudentService _studentService;
@@ -33,12 +34,22 @@ namespace SchoolProject.Core.Features.Students.Commands.Handlers
             var studentmapper = _mapper.Map<Student>(request);
             var _result = await _studentService.addStudentAysnc(studentmapper);
 
-            if (_result == "Exist") return UnprocessableEntity<string>("");
-            else if (_result == "Success") return Created<string>("Added Succefully");
+            if (_result == "Success") return Created<string>("Added Successfully");
 
             return BadRequest<string>();
 
 
+
+
+        }
+
+        public async Task<Response<string>> Handle(EditStudentCommand request, CancellationToken cancellationToken)
+        {
+            var student = await _studentService.GetStudentByIdAysnc(request.id);
+            if (student == null) return NotFound<string>();
+            var studentmapper = _mapper.Map<Student>(request);
+            await _studentService.EditStudentAysnc(studentmapper);
+            return Created<string>("Edit Successfully");
 
 
         }

@@ -31,7 +31,7 @@ namespace SchoolProject.Core.Features.Students.Commands.Validations
 
 
 
-        public void applyCustomValidatoionRules()
+        public void applyCustomValidatoionRules() 
         {
             RuleFor(st => st.Name)
                 .MustAsync(async (key, CancellationToken) => !(await _studentservice.IsExisteStudentAysnc(key)))

@@ -57,6 +57,23 @@ namespace SchoolProject.Infrastructure.Repositories
 
             return true;
         }
+
+        public async Task<string> EditStudentAysnc(Student _student)
+        {
+            await _studentRepository.UpdateAsync(_student);
+            return "Success";
+        }
+
+        public async Task<bool> IsExistStudentForAnotherAysnc(int id, string name)
+        {
+
+            var studentResult = await _studentRepository.GetTableNoTracking().Where(st => st.StudID != id && st.Name == name).FirstOrDefaultAsync();
+            
+            if (studentResult == null) return false;
+            
+            return true;
+
+        }
         #endregion
     }
 }
